@@ -1,0 +1,17 @@
+Objetivo da aula de hoje: 05/02/2025
+
+#01_ Não Iniciar o Linux Mint no VirtualBOX
+
+#02_ Se autenticar na sua conta do Github
+
+#03_ Acessar o meu Repositório do Linux Mint
+https://github.com/vaamonde/dell-linuxmint/
+
+#04_ AGUARDAR OS PROCEDIMENTOS DA AULA DE HOJE
+
+#05_ Fazer a Criação das Duplas para o Projeto
+(Somente 02 (dois) Integrantes).
+
+Seu nome.........: Nome Sobrenome
+Nome de Usuário..: senac
+Senha............: 123@senac

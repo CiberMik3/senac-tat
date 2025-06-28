@@ -1,0 +1,91 @@
+Objetivo da aula de hoje: 03/02/2025
+
+#01_ Iniciar a Máquina Virtual do Linux Mint
+
+#02_ Atualizar o Sistema de "VOCÊ" quiser utilizando o MintUpdate ou Terminal com o comando: apt
+
+#03_ Comandos Básicos de Arquivos e Diretórios
+Vídeo: https://www.youtube.com/watch?v=xs1zGEBf-wc
+
+Vídeo: https://www.youtube.com/watch?v=MkKkZA8wxHU
+
+Vídeo: https://www.youtube.com/watch?v=VBxmsmPK60s
+
+Vídeo: https://www.youtube.com/watch?v=u6Or0rFgltY
+
+----------------------------------------------------
+
+Guia Foca: https://www.guiafoca.org/guiaonline/inicianteintermediario/
+SS64: https://ss64.com/bash/
+ChatGPT: https://chatgpt.com/
+DeepSeek: https://www.deepseek.com/
+Aurelio: https://aurelio.net/shell/canivete/
+----------------------------------------------------
+Comandos Básicos de Arquivos e Diretórios
+
+ls 
+ls -l
+ls -lh
+ls -lha
+-------------------------
+cd 
+cd /
+cd -
+cd ~
+
+pwd
+/ - Root (Raiz)
+
+mkdir SENAC
+cd SENAC/
+ls -lh
+
+mkdir -v TAT PEN ITA CAS
+ls -lh
+
+echo SENAC Tatuapé
+echo SENAC Tatuapé > senac.txt
+
+touch sesc.txt
+
+cat senac.txt
+cat -n senac.txt
+cat -n sesc.txt
+
+cat -n /etc/services
+
+head /etc/services
+head -n20 /etc/services
+
+tail /etc/services
+tail -n20 /etc/services
+/etc/services a partir da linha: 100 até a linha 200
+
+cat head tail (less) | 
+Ctrl C
+
+/etc/services
+sudo apt install tree
+senac-tat/
+		 SENAC/
+			   Informatica/
+							  TAT/
+								  tei-04-2024.txt
+									Nome e Sobrenome
+			   Saude/
+							  BRA/
+								  estetica.md
+								  masso.txt
+			   Administracao/
+							  PEN/
+								  Contas_A_Pagar.txt
+								  Contabilidade.txt
+		 COMANDOS/
+				  services.txt
+				  cat -n /etc/services | head -n200 | tail -n100 > services.txt
+	tree -sh SENAC/ COMANDOS/
+
+git pull
+git add .
+git commit -m "Atualizacao"
+git push

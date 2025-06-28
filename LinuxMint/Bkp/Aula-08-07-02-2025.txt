@@ -1,0 +1,9 @@
+Objetivo da aula de hoje: 07/02/2025
+
+#01_ Pegar o seu Notebook para dá continuidade no Projeto do Linux Mint
+	a) Pegar o Notebook com seu nome;
+	b) Pegar a Fonte de Alimentação;
+	c) Pegar o Cabo de Rede;
+	d) Pegar o Mouse.
+	e) NOTEBOOKS COM PROBLEMA NO CABO DE REDE SOLICITAR O ADAPTADOR SEM-FIO.
+#02_ Continuar a instalar e configuração da onde você parou na última aula.

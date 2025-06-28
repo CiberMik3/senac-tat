@@ -1,0 +1,18 @@
+Objetivo da aula de hoje: 10/02/2025
+
+IMPORTANTE: INTERVALO PONTUAMENTE ÀS 15HS, RETORNO PONTUALMENTE ÀS 15:30HS.
+
+#01_ Pegar o seu Notebook para dá continuidade no Projeto do Linux Mint
+	a) Pegar o Notebook com seu nome;
+	b) Pegar a Fonte de Alimentação;
+	c) Pegar o Cabo de Rede;
+	d) Pegar o Mouse.
+	e) NOTEBOOKS COM PROBLEMA NO CABO DE REDE SOLICITAR O ADAPTADOR SEM-FIO.
+#02_ Continuar a instalar e configuração da onde você parou na última aula.
+
+
+💻 BÁSICO do BÁSICO do Editor de Texto VIM utilizando o Linux Mint 20.3 Una x64 🐧🐧
+https://www.youtube.com/watch?v=KknZSuFsfmk
+
+🔴 VIM Básico com Linux Mint 19.2 Tina x64
+https://www.youtube.com/watch?v=u6Or0rFgltY
